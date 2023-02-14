@@ -60,21 +60,21 @@
   border-radius:100%;
   -webkit-transition:all .2s linear;
   -o-transition:all .2s linear;
-  transition:all .2s linear
+  transition:all .2s linear;
 }
 .social-icons a:active,.social-icons a:focus,.social-icons a:hover
 {
   color:#fff;
-  background-color:#ff00bf
+  background-color:#ff00bf;
 }
 .social-icons.size-sm a
 {
   line-height: 1fr;
   height:34px;
   width:34px;
-  font-size:14px
+  font-size:14px;
 }
 .social-icons a:hover
 {
-  background-color:#3b5998
+  background-color:#3b5998;
 }
