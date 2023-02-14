@@ -209,6 +209,7 @@ html, body {
 	transition: all 300ms;
 	width: 100%;
 	height: 100%;
+    border-radius: 5px;
 }
 
 .content-carrousel img:hover {
