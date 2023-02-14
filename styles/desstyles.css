@@ -1,3 +1,7 @@
+body{
+    margin: 0px;
+}
+
 /* Header Styles */
 
 .header-wrapper {
@@ -20,5 +24,23 @@
 
 .content-wrapper {
     background-color: aquamarine;
+    height: 1500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.content-wrapper > .img-gall-wrapper {
+    background-color:white;
+}
+.content-wrapper > .img-gall-wrapper > .img-header {
+    background-color: #aaaaee;
+    height: 100px;
+    width: 85%;
+}
+
+.content-wrapper > .img-gall-wrapper > .img-gall {
+    background-color:#eebbcc;
     height: 500px;
+    width: 100%;
 }
