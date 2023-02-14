@@ -6,24 +6,26 @@ body{
 
 .header-wrapper {
     display: flex;
-    background-color: pink;
 }
 
 .header-wrapper > .greeting {
     background-color: #aaaaee;
     height: 500px;
     width: 60%;
+    margin: 10px;
+    border-radius: 10px;
 }
 
 .header-wrapper > aside {
     background-color: #eebbcc;
     width: 40%;
+    margin: 10px;
+    border-radius: 10px;
 }
 
 /* Content Styles */
 
 .content-wrapper {
-    background-color: aquamarine;
     height: 1500px;
     display: flex;
     flex-direction: column;
