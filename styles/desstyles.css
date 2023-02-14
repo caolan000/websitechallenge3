@@ -1,3 +1,8 @@
-.greeting {
-    display: flex
+.header-wrapper {
+    display: flex;
+}
+
+.header-wrapper > .greeting {
+    height: 500px;
+    
 }
