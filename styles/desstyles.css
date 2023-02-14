@@ -1,8 +1,15 @@
 .header-wrapper {
     display: flex;
+    background-color: pink;
 }
 
 .header-wrapper > .greeting {
+    background-color: #aaaaee;
     height: 500px;
-    
+    width: 60%;
+}
+
+.header-wrapper > aside {
+    background-color: #eebbcc;
+    width: 40%
 }
