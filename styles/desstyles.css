@@ -1,3 +1,5 @@
+/* Header Styles */
+
 .header-wrapper {
     display: flex;
     background-color: pink;
@@ -11,5 +13,12 @@
 
 .header-wrapper > aside {
     background-color: #eebbcc;
-    width: 40%
+    width: 40%;
+}
+
+/* Content Styles */
+
+.content-wrapper {
+    background-color: aquamarine;
+    height: 500px;
 }
