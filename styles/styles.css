@@ -4,41 +4,23 @@
 
 
 
-/* add all other styling here */
 
-/* footer styling from codepen.io*/
 .site-footer
 {
   background-color:#26272b;
-  padding:45px 0 20px;
+  padding:45px;
   font-size:15px;
   line-height:24px;
-  color:#737373;
+  color:#ffaeae;
 }
-.site-footer hr
-{
-  border-top-color:#bbb;
-  opacity:0.5
-}
-.site-footer hr.small
-{
-  margin:20px 0
-}
-.site-footer h6
-{
-  color:#fff;
-  font-size:16px;
-  text-transform:uppercase;
-  margin-top:5px;
-  letter-spacing:2px
-}
+
 .site-footer a
 {
-  color:#737373;
+  color:#00abd6;
 }
 .site-footer a:hover
 {
-  color:#3366cc;
+  color:#7e006d;
   text-decoration:none;
 }
 .site-footer .social-icons
